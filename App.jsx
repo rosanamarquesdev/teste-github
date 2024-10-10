@@ -1,4 +1,4 @@
-import { CardLogin } from "../../"
+
 
 function App() {
 
@@ -9,6 +9,9 @@ function App() {
     <>
       <NewComponent />
     </>
+    <SoMaisUmTeste>
+      
+    </SoMaisUmTeste>
   )
 }
 
