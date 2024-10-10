@@ -1,10 +1,13 @@
 import { CardLogin } from "../../"
 
 function App() {
-  
+
   return (
     <>
      <CardLogin />
+    </>
+    <>
+      <NewComponent />
     </>
   )
 }
