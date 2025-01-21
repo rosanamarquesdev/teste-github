@@ -2,6 +2,8 @@
 
 function App() {
 
+  // teste
+
   return (
     <>
      <NewComponent />
